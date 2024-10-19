@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Vaughn de Lange (@vaughndelange)
+# About Me
+
+## 👋 Hi, I’m Vaughn de Lange (@vaughndelange)
+SQL Data Developer turned Data Engineer, specializing in MS/Azure stack
 - 📧 vaughn.delange@gmail.com
 
 
